@@ -4,6 +4,7 @@
 npm create astro@latest -- --template portfolio
 ```
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8db92e9e-a514-4e75-aa7a-5f1e3b7411d4/deploy-status)](https://app.netlify.com/sites/theclimbvault/deploys)
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/portfolio)
 [![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/portfolio)
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/portfolio/devcontainer.json)
